@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **kiru-dev/kiru-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Kiruthiga, I love to design ⚡ 
+
+You can reach out to me through my [portfolio](https://kiruanime2003.gitlab.io/my-portfolio/) 😄
+
