@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Kiruthiga, I love to design ⚡ 
+I am Kiruthiga✨
+
+I am passionate about designing and love animations. I enjoy designing websites, apps. I believe in designing a cryptic user interface paves way for a user-friendly experience🔭
+
+I believe in the power of visualization and focus⚡. I am drawn towards visually powerful things, which inspires me to create things which leave a visual impact in people's minds.
 
 You can reach out to me through my [portfolio](https://kiruanime2003.gitlab.io/my-portfolio/) 😄
 
