@@ -21,5 +21,5 @@ I am passionate about designing and love animations. I enjoy designing websites,
 
 I believe in the power of visualization and focus⚡. I am drawn towards visually powerful things, which inspires me to create things which leave a visual impact in people's minds.
 
-You can reach out to me through my [portfolio](https://kiruanime2003.gitlab.io/my-portfolio/) 😄
+You can reach out to me through my [portfolio](https://kiruanime2003.gitlab.io) 😄
 
