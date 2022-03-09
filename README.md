@@ -1,25 +1,23 @@
-### Hi 👋
+![LinkedIn Banner](https://user-images.githubusercontent.com/82641747/157427061-098467c1-4392-4d13-9a12-bbd13a7a31fb.jpg)
 
-<!--
-**kiru-dev/kiru-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello
 
-Here are some ideas to get you started:
+<p>An empathetic who loves working with cross functional teams.I believe in the power of visualization and focus.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm pursuing a Bachelor's degree in Computer Science.
 
-I am Kiruthiga✨
+## My Domains
 
-I am passionate about designing and love animations. I enjoy designing websites, apps. I believe in designing a cryptic user interface paves way for a user-friendly experience🔭
+<ul><li>Design</li><li>Front end web development</li><li>Animation</li></ul>
 
-I believe in the power of visualization and focus⚡. I am drawn towards visually powerful things, which inspires me to create things which leave a visual impact in people's minds.
+## My Tech stacks
 
-You can reach out to me through my [portfolio](https://kiruanime2003.gitlab.io) and my [Blog](https://kiruanime2003.wordpress.com) 😄
+<ul><li>C/C++</li><li>Html</li><li>Css</li><li>Sass/Scss</li></ul>
 
+## Contact me
+
+<ul><a href="https://www.linkedin.com/in/kiruthiga-kanagalingam-6a6641200/" target="_blank"><li>LinkedIn</li></a><a href="https://kiruanime2003.gitlab.io/"><li>Portfolio site</li></a></ul>
+
+## My social links
+
+<ul><a href="https://www.dribbble.com/kiruanime2003" target="_blank"><li>Dribbble</li></a><a href="https://www.codepen.io/kiruanime2003"><li>Codepen</li></a></ul>
