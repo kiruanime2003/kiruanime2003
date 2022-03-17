@@ -2,7 +2,7 @@
 
 # Hello
 
-<p>An empathetic who loves working with cross functional teams.I believe in the power of visualization and focus.</p>
+<p>An empathetic who loves working with cross functional teams. I believe in the power of visualization and focus.</p>
 
 Currently I'm pursuing a Bachelor's degree in Computer Science.
 
