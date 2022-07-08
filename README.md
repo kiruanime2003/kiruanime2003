@@ -16,6 +16,10 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 <ul><li>C/C++</li><li>Html</li><li>Css</li><li>Sass/Scss</li></ul>
 
+## Front-end projects
+
+<ul><li>[MCU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe)</li><li>[DCEU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe)</li></ul>
+
 ## Contact me
 
 <ul><a href="https://www.linkedin.com/in/kiruthiga-kanagalingam-6a6641200/" target="_blank"><li>LinkedIn</li></a><a href="https://kiruanime2003.gitlab.io/"><li>Portfolio site</li></a></ul>
