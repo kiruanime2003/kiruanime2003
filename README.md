@@ -20,6 +20,7 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 - [MCU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe) using HTML & CSS
 - [DCEU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe) using HTML & CSS
+- [Random color generator](https://kiruanime2003.github.io/random-color-generator/) using vanilla js
 
 ## Contact me
 
