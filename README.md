@@ -18,7 +18,8 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 ## Front-end projects
 
-<ul><li>[MCU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe)</li><li>[DCEU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe)</li></ul>
+- [MCU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe) using HTML & CSS
+- [DCEU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe) using HTML & CSS
 
 ## Contact me
 
