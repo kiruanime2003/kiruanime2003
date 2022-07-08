@@ -10,7 +10,7 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 ## My Domains
 
-<ul><li>Design</li><li>Front end web development</li><li>Animation</li></ul>
+<ul><li>Design</li><li>Front end web development</li></ul>
 
 ## My Tech stacks
 
