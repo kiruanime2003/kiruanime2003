@@ -5,6 +5,7 @@
 ![](https://img.shields.io/static/v1?message=kiruanime2003&logo=github&labelColor=000&color=3F8EFC&logoColor=3F8EFC&label=%20&style=plastic)
 
 <p>An empathetic who loves working with cross functional teams. I believe in the power of visualization and focus.</p>
+You can view my front end projects <a href="https://kiruanime2003.wordpress.com/2022/07/09/my-front-end-projects/">here</a>
 
 Currently I'm pursuing a Bachelor's degree in Computer Science.
 
@@ -15,13 +16,6 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 ## My Tech stacks
 
 <ul><li>C/C++</li><li>Html</li><li>Css</li><li>Sass/Scss</li></ul>
-
-## Front-end projects
-
-- [MCU movie grid](https://codepen.io/kiruanime2003/full/eYWLwBe)
-- [DCEU movie grid](https://codepen.io/kiruanime2003/full/ZEXBNzM)
-- [Random color generator](https://kiruanime2003.github.io/random-color-generator/)
-- [Rock paper scissors game](https://kiruanime2003.github.io/rock-paper-scissors-game/)
 
 ## Contact me
 
