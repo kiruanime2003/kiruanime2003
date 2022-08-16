@@ -15,7 +15,7 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 ## My Tech stacks
 
-<ul><li>C/C++</li><li>Html</li><li>Css</li><li>Sass/Scss</li></ul>
+<ul><li>C/C++</li><li>Html/Css/Js</li><li>Sass/Scss</li></ul>
 
 ## Contact me
 
