@@ -13,9 +13,13 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 <ul><li>Design</li><li>Front end web development</li></ul>
 
-## My Tech stacks
+## My Skills
 
 <ul><li>C/C++</li><li>Html/Css/Js</li><li>Sass/Scss</li></ul>
+
+## Tools
+
+<ul><li>Git</li><li>Canva</li><li>Figma</li><li>Wordpress</li></ul>
 
 ## Contact me
 
