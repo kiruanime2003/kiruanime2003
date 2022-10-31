@@ -1,3 +1,4 @@
+<img src="https://github.com/kiruanime2003/kiruanime2003/blob/main/LinkedIn%20Banner.jpg" alt="header-image">
 <h1 align="left">Hello, I'm Kiruthiga</h1>
 <h3 align="left">Computer science student</h3>
 
