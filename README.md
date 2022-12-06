@@ -23,4 +23,4 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 ## Contact me
 
-<ul><a href="https://www.linkedin.com/in/kiruthiga-kanagalingam-6a6641200/" target="_blank"><li>LinkedIn</li></a><a href="https://kiruanime2003.gitlab.io/"><li>Portfolio site</li></a></ul>
+<ul><a href="https://www.linkedin.com/in/kiruthiga-kanagalingam-6a6641200/" target="_blank"><li>LinkedIn</li></a><a href="https://kiruanime2003.gitlab.io/"><li>Portfolio site</li></a><a href="https://dribbble.com/kiruanime2003"><li>Dribbble</li></a><a href="https://codepen.io/kiruanime2003"><li>Codepen</li></a></ul>
