@@ -15,7 +15,7 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 ## My Skills
 
-<ul><li>C/C++</li><li>Html/Css/Js</li><li>Sass/Scss</li></ul>
+<ul><li>C/C++</li><li>Html/Css/Js</li><li>Sass/Scss</li><li>SQL</li></ul>
 
 ## Tools
 
