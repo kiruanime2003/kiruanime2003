@@ -19,7 +19,7 @@ Currently I'm pursuing a Bachelor's degree in Computer Science.
 
 ## Tools
 
-<ul><li>Git</li><li>Canva</li><li>Figma</li><li>Wordpress</li></ul>
+<ul><li>Canva</li><li>Figma</li><li>Wordpress</li><li>Adobe Illustrator(Basics)</li></ul>
 
 ## Contact me
 
